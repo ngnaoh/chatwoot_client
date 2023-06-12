@@ -19,6 +19,7 @@
     "@chatscope/chat-ui-kit-styles": "^1.4.0",
     "@chatscope/use-chat": "^3.1.1",
     "@supabase/supabase-js": "^2.24.0",
+    "@tanstack/react-query": "^4.29.12",
     "gatsby": "^5.10.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -27,6 +28,10 @@
     "@types/node": "^20.2.5",
     "@types/react": "^18.2.8",
     "@types/react-dom": "^18.2.4",
+    "autoprefixer": "^10.4.14",
+    "gatsby-plugin-postcss": "^6.10.0",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
     "typescript": "^5.1.3"
   }
 }
